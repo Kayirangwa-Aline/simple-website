@@ -1,0 +1,57 @@
+
+.div1{
+    height: 150px;
+
+}
+.photo-1{
+    border-radius: 50%;
+    width: 150px;
+    height: 200px;
+}
+.photo-2{
+    border-radius: 50%;
+    width: 100px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 250px;
+    margin-right: 100px;
+
+}
+.photo-3{
+    border-radius: 50%;
+    width: 100px;
+}
+table{
+    padding: 0px 250px;
+    margin-left: 20px;
+}
+
+.div2{
+padding: 0px 0px;
+
+}
+.div3{
+    padding: 0px 0px;
+}
+.div4{
+
+}
+.div5{
+
+}
+.div6{
+
+}
+button{
+    background-color: rgb(13, 46, 46);
+    color: aliceblue;
+    margin: 20px;
+}
+.div5{
+    background-color: rgb(26, 171, 171);
+    height: 70%;
+    padding: 35px;
+}
+.div5 span{
+    padding: 10px;
+}
